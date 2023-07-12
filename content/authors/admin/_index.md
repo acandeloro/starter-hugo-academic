@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Alessandro Candeloro
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Alessandro
+last_name: Candeloro
 
 # Status emoji
 status:
