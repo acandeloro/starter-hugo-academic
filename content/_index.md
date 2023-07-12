@@ -4,8 +4,8 @@ title:
 date: 2022-10-24
 type: landing
 
-sections:
-  - block: hero
+sections: 
+#  - block: hero
     content:
       title: Hugo Academic Theme
       image:
