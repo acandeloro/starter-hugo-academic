@@ -57,7 +57,7 @@ social:
 #    link: https://twitter.com/GeorgeCushen
 #    label: Follow me on Twitter
 #    display:
-      header: true
+#      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dtuo72EAAAAJ&hl=it&inst=11099861943932837285&oi=ao
