@@ -19,10 +19,10 @@ role: Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Trinity College Dublin
-    url: https://www.stanford.edu/
+    url: https://www.tcd.ie
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantum metrology, quantum measurement and quantum foundations.
 
 # Interests to show in About widget
 interests:
@@ -52,21 +52,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=dtuo72EAAAAJ&hl=it&inst=11099861943932837285&oi=ao
+  - icon: orcid 
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-0582-4941
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/alessandro-candeloro-711620125/
+  - icon: mastodon
+    icon_pack: fab
+    link: https://qubit-social.xyz/@acandeloro
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
